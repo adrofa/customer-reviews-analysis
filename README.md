@@ -1,4 +1,4 @@
-![Reviews Analysis](https://github.com/adrofa/profile/raw/master/jupyter_notebooks/reviews_analysis/reviews_analysis_header.jpg)
+![Reviews Analysis](https://github.com/adrofa/customer-reviews-analysis/raw/master/reviews_analysis_header.jpg)
 # Reviews Analysis
 The project was initiated by a large Italian cosmetic firm. This folder contains materials dedicated to the project. Some of the materials are modified (not to disclose confidential information).
 
@@ -20,15 +20,15 @@ In the order of importance/popularity among the customers:
 - **Brand**: a brand topic is not interesting for the customers, but those who wrote about \<brand-name\> like the brand. It should be noted that usually, customers misspell the \<brand-name\>.
 
 ## Deliverables
-- **Summary** | [pdf](https://github.com/adrofa/portfolio/blob/master/jupyter_notebooks/reviews_analysis/summary.pdf) | Analysis takeaways.
-- **Notes** | [pdf](https://github.com/adrofa/portfolio/blob/master/jupyter_notebooks/reviews_analysis/notes.pdf) | The description of the analysis approach.
-- **Code** | [NBViewer](https://nbviewer.jupyter.org/github/adrofa/portfolio/blob/master/jupyter_notebooks/reviews_analysis/code.ipynb) | Jupyter Notebook with all of the code related to the project.
-- **Categorized Reviews** | [xlsx *(download)*](https://github.com/adrofa/portfolio/raw/master/jupyter_notebooks/reviews_analysis/reviews_categorized.xlsx) | Reviews texts with (1) group lables and (2) TOP-essence marks.
-- **Tokens** | [xlsx *(download)*](https://github.com/adrofa/portfolio/raw/master/jupyter_notebooks/reviews_analysis/tokens.xlsx) | Extracted, annotated, labeled tokens with average star-rating.
-- **Bigrams** | [xlsx *(download)*](https://github.com/adrofa/portfolio/raw/master/jupyter_notebooks/reviews_analysis/bigrams.xlsx) | Same as for "Tokens" (bigrams were used for tokens annotation).
+- **Summary** | [pdf](https://github.com/adrofa/customer-reviews-analysis/blob/master/summary.pdf) | Analysis takeaways.
+- **Notes** | [pdf](https://github.com/adrofa/customer-reviews-analysis/blob/master/notes.pdf) | The description of the analysis approach.
+- **Code** | [NBViewer](https://nbviewer.jupyter.org/github/adrofa/customer-reviews-analysis/blob/master/code.ipynb) | Jupyter Notebook with all of the code related to the project.
+- **Categorized Reviews** | [xlsx *(download)*](https://github.com/adrofa/customer-reviews-analysis/raw/master/reviews_categorized.xlsx) | Reviews texts with (1) group lables and (2) TOP-essence marks.
+- **Tokens** | [xlsx *(download)*](https://github.com/adrofa/customer-reviews-analysis/raw/master/tokens.xlsx) | Extracted, annotated, labeled tokens with average star-rating.
+- **Bigrams** | [xlsx *(download)*](https://github.com/adrofa/customer-reviews-analysis/blob/master/bigrams.xlsx) | Same as for "Tokens" (bigrams were used for tokens annotation).
 
 
 ### Previews
-- **Categoried Reviews**<br/>![Categoried Reviews](https://github.com/adrofa/portfolio/raw/master/jupyter_notebooks/reviews_analysis/reviews_preview.png)
-- **Tokens**<br/>![Tokens](https://github.com/adrofa/portfolio/raw/master/jupyter_notebooks/reviews_analysis/tokens_preview.png)
-- **Bigrams**<br/>![Bigrams](https://github.com/adrofa/portfolio/raw/master/jupyter_notebooks/reviews_analysis/bigrams_preview.png)
+- **Categoried Reviews**<br/>![Categoried Reviews](https://github.com/adrofa/customer-reviews-analysis/raw/master/reviews_preview.png)
+- **Tokens**<br/>![Tokens](https://github.com/adrofa/customer-reviews-analysis/raw/master/tokens_preview.png)
+- **Bigrams**<br/>![Bigrams](https://github.com/adrofa/customer-reviews-analysis/raw/master/bigrams_preview.png)
