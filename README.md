@@ -25,7 +25,7 @@ In the order of importance/popularity among the customers:
 - **Code** | [NBViewer](https://nbviewer.jupyter.org/github/adrofa/customer-reviews-analysis/blob/master/code.ipynb) | Jupyter Notebook with all of the code related to the project.
 - **Categorized Reviews** | [xlsx *(download)*](https://github.com/adrofa/customer-reviews-analysis/raw/master/reviews_categorized.xlsx) | Reviews texts with (1) group lables and (2) TOP-essence marks.
 - **Tokens** | [xlsx *(download)*](https://github.com/adrofa/customer-reviews-analysis/raw/master/tokens.xlsx) | Extracted, annotated, labeled tokens with average star-rating.
-- **Bigrams** | [xlsx *(download)*](https://github.com/adrofa/customer-reviews-analysis/blob/master/bigrams.xlsx) | Same as for "Tokens" (bigrams were used for tokens annotation).
+- **Bigrams** | [xlsx *(download)*](https://github.com/adrofa/customer-reviews-analysis/raw/master/bigrams.xlsx) | Same as for "Tokens" (bigrams were used for tokens annotation).
 
 
 ### Previews
